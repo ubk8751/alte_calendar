@@ -1,0 +1,9 @@
+.env
+schema.html
+events_text.txt
+events.csv
+*.html
+*.txt
+__pycache__/
+*.pyc
+myenv/
